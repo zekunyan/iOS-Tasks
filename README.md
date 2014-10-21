@@ -13,6 +13,10 @@ iOS Tasks
 注意代码规范。
 每次提交的时候记着Push一份到我这。
 
+### 开发环境
+有Mac，当然最好。</br>
+没有。。。装个[黑苹果](http://zh.wikipedia.org/wiki/OSx86)吧，最大的[黑苹果论坛](http://bbs.pcbeta.com/forum.php?gid)，一个不错的[教程](http://bbs.feng.com/read-htm-tid-6296516.html)。
+
 ### 学习
 #### 编程语言
 开发iOS的主要编程语言是Object-C（cocoa框架），当然还有C语言，C++等等。（最新的Swift暂时不考虑，不够成熟）C++大部分用来开发图像、音视频等性能敏感的库，一般的应用只会涉及到Object-C。
