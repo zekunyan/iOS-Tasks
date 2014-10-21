@@ -29,8 +29,7 @@ iOS Tasks
 * [并发编程：Concurrency Programming Guide。](https://developer.apple.com/library/ios/documentation/General/Conceptual/ConcurrencyProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008091)
 * [集合类：Collections Programming Topics。](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/Collections/Collections.html#//apple_ref/doc/uid/10000034i)
 
-当然，还有许多非常好的第三方教程，如：[tutorialspoint的](http://www.tutorialspoint.com/objective_c/index.htm)
-**基础很重要**
+当然，还有许多非常好的第三方教程，如：[tutorialspoint](http://www.tutorialspoint.com/objective_c/index.htm)
 
 #### iOS开发
 有了一定的OC基础以后，就可以着手做几个小东西玩玩，练练手。iOS的体系很庞大，所以一开始最好先按照简单的教程来做一些Demo。当然，[官方的教程](https://developer.apple.com/library/ios/navigation/#)是非常全面的，但是未免有些吓人=。=，太多了。。。所以在此推荐一个非常好的网站：[www.raywenderlich.com](http://www.raywenderlich.com/)，新手可以按照里面的教程，做些Demo应用，攒点成就感~~
