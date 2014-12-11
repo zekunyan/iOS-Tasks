@@ -43,6 +43,26 @@ Sublime Text。
 
 当然，还有许多非常好的第三方教程，如：[tutorialspoint](http://www.tutorialspoint.com/objective_c/index.htm)
 
+### 书
+推荐一些电子书
+
+* [Programming iOS 7, 4th Edition](http://it-ebooks.info/book/3138/)
+* [Beginning iOS 5 Development](http://it-ebooks.info/book/508/)
+* [iOS 7 Programming Fundamentals](http://it-ebooks.info/book/3084/)
+* [Learn iOS 7 App Development](http://it-ebooks.info/book/3143/)
+* [More iOS 6 Development](http://www.it-ebooks.info/book/1973/)
+* [Beginning iOS 7 Development](http://www.it-ebooks.info/book/3901/)
+* [The Core iOS Developer's Cookbook, 5th Edition](http://www.it-ebooks.info/book/3675/)
+* [Beginning iOS Programming](http://www.it-ebooks.info/book/3663/)
+* [Application Development in iOS 7](http://www.it-ebooks.info/book/3545/)
+* [Learning Cocoa with Objective-C, 4th Edition](http://www.it-ebooks.info/book/3323/)
+* [Professional iOS Programming](http://www.it-ebooks.info/book/3834/)
+* [iOS Components and Frameworks](http://www.it-ebooks.info/book/3684/)
+* [iOS Drawing](http://www.it-ebooks.info/book/3683/)
+* [iOS Auto Layout Demystified, 2nd Edition](http://www.it-ebooks.info/book/3681/)
+* [Learn iOS 7 App Development](http://www.it-ebooks.info/book/3143/)
+* [iOS 7 Programming Cookbook](http://www.it-ebooks.info/book/3083/)
+
 ### iOS开发
 有了一定的OC基础以后，就可以着手做几个小东西玩玩，练练手。iOS的体系很庞大，所以一开始最好先按照简单的教程来做一些Demo。当然，[官方的教程](https://developer.apple.com/library/ios/navigation/#)是非常全面的，但是未免有些吓人=。=，太多了。。。所以在此推荐一个非常好的网站：[www.raywenderlich.com](http://www.raywenderlich.com/)，新手可以按照里面的教程，做些Demo应用，攒点成就感~~
 
