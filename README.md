@@ -1,33 +1,58 @@
-iOS Tasks
-=========
+# iOS Tasks
 
     ITEC学习iOS的同学的Github聚集地 =。=
 
 	iOS开发的学习是个漫长而有趣的过程，加油吧~
 	
-## 提交说明
-1. 自己建个Github的账号，fork一份到你自己本地。
-2. 以自己的名字拼音全称创建文件夹，来存放你的Task代码。
+## Git
+Git是目前最好用的分布式版本管理系统了，作为一个程序猿，这个是必备技能。  
+主页：[https://git-scm.com](https://git-scm.com)  
+Pro Git教程：[https://git-scm.com/book/zh/v1](https://git-scm.com/book/zh/v1)
+推荐的GUI软件：SourceTree
+国内比较好的Git托管平台：[Coding](https://git-scm.com/book/zh/v1)
 
-熟悉熟悉Git怎么用，有个概念了以后可以用SourceTree客户端。
-注意代码规范。
-每次提交的时候记着Pull request一份到我这。
+自己在Coding上建个账号，在本地建个Git仓库，试试提交、分支、push、pull等特型。
 
 ## 开发环境
-
 ### 硬件环境
-有Mac，当然最好。</br>
-没有。。。装个[黑苹果](http://zh.wikipedia.org/wiki/OSx86)吧，最大的[黑苹果论坛](http://bbs.pcbeta.com/forum.php?gid)，一个不错的[教程](http://bbs.feng.com/read-htm-tid-6296516.html)。
+Mac和iPhone.
 
 ### IDE
-Xcode 6.
-Sublime Text。
-当然，还有最神器的AppCode。
+Xcode 6.  
+Sublime Text。  
+当然，还有最神器的AppCode。（Xcode + 数量众多的插件也不错）
 
 
 ## 学习
+### 好书
+推荐一个比较好的电子书下载网站：[http://it-ebooks.info](http://it-ebooks.info)  
+如果从零开始学习的话，由一本比较好的书入手是最好的，推荐的书如下:
+
+#### 1. Objective-C
+
+Gitbook的书：[Objective-C-Tutorials](https://www.gitbook.com/book/tangjr/objective-c-tutorials/details)
+
+Objective-C程序设计  
+![image](http://7nj2iz.com1.z0.glb.clouddn.com/github_ios_tasks_1.jpg?imageView2/0/w/200/h/200)
+
+#### 2. Swift 
+* 最好的当然是苹果iBooks的Swift官方教程。
+* 官方的中文翻译版：[《The Swift Programming Language》中文版](https://www.gitbook.com/book/numbbbbb/-the-swift-programming-language-/details), [
+苹果官方文档 Using Swift with Cocoa and Objective-C 中文翻译版](https://www.gitbook.com/book/mengxiangpingx/using-swift-with-cocoa-and-objective-c/details)
+
+#### 3. iOS编程
+iOS编程-第四版  
+![image](http://7nj2iz.com1.z0.glb.clouddn.com/github_ios_tasks_2.jpg?imageView2/0/w/200/h/200)
+
+#### 4. 设计模式
+Objective-C编程之道-iOS设计模式解析  
+![image](http://7nj2iz.com1.z0.glb.clouddn.com/github_ios_tasks_4.jpg?imageView2/0/w/200/h/200)
+
+#### 5. 代码整洁之道
+![image](http://7nj2iz.com1.z0.glb.clouddn.com/github_ios_tasks_5.jpg?imageView2/0/w/200/h/200)
+
 ### 编程语言
-开发iOS的主要编程语言是Object-C（cocoa框架），当然还有C语言，C++等等。（最新的Swift暂时不考虑，不够成熟）C++大部分用来开发图像、音视频等性能敏感的库，一般的应用只会涉及到Object-C。
+开发iOS的主要编程语言是Object-C（cocoa框架），当然还有C语言，C++等等。（最新的Swift刚到2.0版本，迭代比较快，以后一定是主流。本教程以OC为主）C++大部分用来开发图像、音视频等性能敏感的库，一般的应用只会涉及到Object-C。
 
 目前Object-C的开发、维护基本上也就是Apple在做，所以学习Object-C最好最权威的地方就是Apple developer官网->https://developer.apple.com/devcenter/ios/index.action
 
@@ -85,6 +110,7 @@ Sublime Text。
 这是冰岩的酷站推荐的一个iOS的常用[第三方库合集](http://github.ibireme.com/github/list/ios/)。
 
 列举几个好用、常用的。
+
 * [AFNetworking](https://github.com/AFNetworking/AFNetworking)。一个优秀的网络请求库。
 * [FMDB](https://github.com/ccgus/fmdb)。一个封装了iOS的SQLite的库，可以方便的操作数据库，事务、并发什么的，都不在话下。
 * [SVPullToRefresh](https://github.com/samvermette/SVPullToRefresh)。一个UITableView的Category扩展，超级方便的增加下拉刷新、上拉加载更多的功能。
