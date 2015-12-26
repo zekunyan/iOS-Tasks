@@ -12,6 +12,8 @@ Pro Git教程：[https://git-scm.com/book/zh/v1](https://git-scm.com/book/zh/v1)
 
 自己在Coding上建个账号，在本地建个Git仓库，试试提交、分支、push、pull等特型。
 
+强烈建议使用[http://gitignore.io/](http://gitignore.io/)生成gitignore文件！
+
 ## 开发环境
 ### 硬件环境
 Mac和iPhone.
